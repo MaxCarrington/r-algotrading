@@ -48,3 +48,9 @@ Thumbs.db
 *.mov
 *.wmv
 
+
+# r/algotrading encyclopedia
+data/
+__pycache__/
+.env
+_import/
